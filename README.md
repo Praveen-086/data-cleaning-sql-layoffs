@@ -39,9 +39,11 @@ The following steps were performed:
 - `ROW_NUMBER()`
 - Window Functions
 
-## 📂 Files
 
-- [Data_cleaning_project.sql](https://github.com/Praveen-086/data-cleaning-sql-layoffs/blob/main/Data_cleaning_project.sql) — SQL queries used for the data-cleaning process
+## 📁 Files
+
+- [🗄️ Data Cleaning Project.sql](./Data_cleaning_project.sql) — SQL queries used for the data-cleaning process
+- [📊 Layoffs Dataset.csv](./layoffs.csv) — Raw dataset used for the data-cleaning project
 
 ## 🎓 Learning Source
 
