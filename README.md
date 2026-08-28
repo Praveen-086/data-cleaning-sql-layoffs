@@ -41,7 +41,7 @@ The following steps were performed:
 
 ## 📂 Files
 
-- `data_cleaning.sql` — SQL queries used for the data-cleaning process
+- `[data_cleaning.sql](https://github.com/Praveen-086/data-cleaning-sql-layoffs/blob/main/Data_cleaning_project.sql)` — SQL queries used for the data-cleaning process
 
 ## 🎓 Learning Source
 
